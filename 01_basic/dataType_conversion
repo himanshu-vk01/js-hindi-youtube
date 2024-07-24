@@ -4,7 +4,7 @@ let score = null;
 
    let valueInNumber = Number(score)
     
-    //console.log(typeof valueInNumber) // number
+    //console.log(typeof valueInNumber) number
     console.log(score);
 
 
@@ -21,7 +21,7 @@ let score = null;
 
          let isLoggedIn = 1
          let change = Boolean(isLoggedIn)
-         console.log(change);  // true
+         console.log(change);  true
 
          let isLoggedIn2 = ""
          let change2 = Boolean(isLoggedIn2)
@@ -45,8 +45,14 @@ let score = null;
               console.log(someChange)
 
 
+              //possative to neg
 
-              
+              let number = 33
+              let negNumber = -number
+              console.log(negNumber);
+
+
+
 
 
 
